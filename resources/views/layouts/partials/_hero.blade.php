@@ -19,7 +19,7 @@
                     </div>
                     <a href="blog-single.html">
                         <div class="thumb rounded">
-                            <div class="inner data-bg-image" data-bg-image="images/posts/featured-lg.jpg"></div>
+                            <div class="inner data-bg-image" data-bg-image="images/posts/featured-lg.jpg')}}"></div>
                         </div>
                     </a>
                 </div>
@@ -51,7 +51,7 @@
                                 <div class="thumb circle">
                                     <a href="blog-single.html">
                                         <div class="inner">
-                                            <img src="images/posts/tabs-1.jpg" alt="post-title" />
+                                            <img src="{{ asset('assets/images/posts/tabs-1.jpg')}}" alt="post-title" />
                                         </div>
                                     </a>
                                 </div>
@@ -68,7 +68,7 @@
                                 <div class="thumb circle">
                                     <a href="blog-single.html">
                                         <div class="inner">
-                                            <img src="images/posts/tabs-2.jpg" alt="post-title" />
+                                            <img src="{{ asset('assets/images/posts/tabs-2.jpg')}}" alt="post-title" />
                                         </div>
                                     </a>
                                 </div>
@@ -85,7 +85,7 @@
                                 <div class="thumb circle">
                                     <a href="blog-single.html">
                                         <div class="inner">
-                                            <img src="images/posts/tabs-3.jpg" alt="post-title" />
+                                            <img src="{{ asset('assets/images/posts/tabs-3.jpg')}}" alt="post-title" />
                                         </div>
                                     </a>
                                 </div>
@@ -102,7 +102,7 @@
                                 <div class="thumb circle">
                                     <a href="blog-single.html">
                                         <div class="inner">
-                                            <img src="images/posts/tabs-4.jpg" alt="post-title" />
+                                            <img src="{{ asset('assets/images/posts/tabs-4.jpg')}}" alt="post-title" />
                                         </div>
                                     </a>
                                 </div>
@@ -122,7 +122,7 @@
                                 <div class="thumb circle">
                                     <a href="blog-single.html">
                                         <div class="inner">
-                                            <img src="images/posts/tabs-2.jpg" alt="post-title" />
+                                            <img src="{{ asset('assets/images/posts/tabs-2.jpg')}}" alt="post-title" />
                                         </div>
                                     </a>
                                 </div>
@@ -139,7 +139,7 @@
                                 <div class="thumb circle">
                                     <a href="blog-single.html">
                                         <div class="inner">
-                                            <img src="images/posts/tabs-1.jpg" alt="post-title" />
+                                            <img src="{{ asset('assets/images/posts/tabs-1.jpg')}}" alt="post-title" />
                                         </div>
                                     </a>
                                 </div>
@@ -156,7 +156,7 @@
                                 <div class="thumb circle">
                                     <a href="blog-single.html">
                                         <div class="inner">
-                                            <img src="images/posts/tabs-4.jpg" alt="post-title" />
+                                            <img src="{{ asset('assets/images/posts/tabs-4.jpg')}}" alt="post-title" />
                                         </div>
                                     </a>
                                 </div>
@@ -173,7 +173,7 @@
                                 <div class="thumb circle">
                                     <a href="blog-single.html">
                                         <div class="inner">
-                                            <img src="images/posts/tabs-3.jpg" alt="post-title" />
+                                            <img src="{{ asset('assets/images/posts/tabs-3.jpg')}}" alt="post-title" />
                                         </div>
                                     </a>
                                 </div>

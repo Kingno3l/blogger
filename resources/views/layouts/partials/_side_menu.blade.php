@@ -4,7 +4,7 @@
 
     <!-- logo -->
     <div class="logo">
-        <img src="images/logo.svg" alt="Katen" />
+        <img src="{{ asset('assets/images/logo.svg')}}" alt="Katen" />
     </div>
 
     <!-- menu -->

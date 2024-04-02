@@ -11,7 +11,7 @@
                     <!-- section header -->
                     <div class="section-header">
                         <h3 class="section-title">Editor’s Pick</h3>
-                        <img src="images/wave.svg" class="wave" alt="wave" />
+                        <img src="{{ asset('assets/images/wave.svg')}}" class="wave" alt="wave" />
                     </div>
 
                     <div class="padding-30 rounded bordered">
@@ -26,7 +26,7 @@
                                         </span>
                                         <a href="blog-single.html">
                                             <div class="inner">
-                                                <img src="images/posts/editor-lg.jpg" alt="post-title" />
+                                                <img src="{{ asset('assets/images/posts/editor-lg.jpg')}}" alt="post-title" />
                                             </div>
                                         </a>
                                     </div>
@@ -66,7 +66,7 @@
                                     <div class="thumb rounded">
                                         <a href="blog-single.html">
                                             <div class="inner">
-                                                <img src="images/posts/editor-sm-2.jpg" alt="post-title" />
+                                                <img src="{{ asset('assets/images/posts/editor-sm-2.jpg')}}" alt="post-title" />
                                             </div>
                                         </a>
                                     </div>
@@ -83,7 +83,7 @@
                                     <div class="thumb rounded">
                                         <a href="blog-single.html">
                                             <div class="inner">
-                                                <img src="images/posts/editor-sm-3.jpg" alt="post-title" />
+                                                <img src="{{ asset('assets/images/posts/editor-sm-3.jpg')}}" alt="post-title" />
                                             </div>
                                         </a>
                                     </div>
@@ -100,7 +100,7 @@
                                     <div class="thumb rounded">
                                         <a href="blog-single.html">
                                             <div class="inner">
-                                                <img src="images/posts/editor-sm-4.jpg" alt="post-title" />
+                                                <img src="{{ asset('assets/images/posts/editor-sm-4.jpg')}}" alt="post-title" />
                                             </div>
                                         </a>
                                     </div>
@@ -122,7 +122,7 @@
                     <div class="ads-horizontal text-md-center">
                         <span class="ads-title">- Sponsored Ad -</span>
                         <a href="#">
-                            <img src="images/ads/ad-750.png" alt="Advertisement" />
+                            <img src="{{ asset('assets/images/ads/ad-750.png')}}" alt="Advertisement" />
                         </a>
                     </div>
 
@@ -131,7 +131,7 @@
                     <!-- section header -->
                     <div class="section-header">
                         <h3 class="section-title">Trending</h3>
-                        <img src="images/wave.svg" class="wave" alt="wave" />
+                        <img src="{{ asset('assets/images/wave.svg')}}" class="wave" alt="wave" />
                     </div>
 
                     <div class="padding-30 rounded bordered">
@@ -146,7 +146,7 @@
                                         </span>
                                         <a href="blog-single.html">
                                             <div class="inner">
-                                                <img src="images/posts/trending-lg-1.jpg" alt="post-title" />
+                                                <img src="{{ asset('assets/images/posts/trending-lg-1.jpg')}}" alt="post-title" />
                                             </div>
                                         </a>
                                     </div>
@@ -166,7 +166,7 @@
                                     <div class="thumb rounded">
                                         <a href="blog-single.html">
                                             <div class="inner">
-                                                <img src="images/posts/trending-sm-1.jpg" alt="post-title" />
+                                                <img src="{{ asset('assets/images/posts/trending-sm-1.jpg')}}" alt="post-title" />
                                             </div>
                                         </a>
                                     </div>
@@ -183,7 +183,7 @@
                                     <div class="thumb rounded">
                                         <a href="blog-single.html">
                                             <div class="inner">
-                                                <img src="images/posts/trending-sm-2.jpg" alt="post-title" />
+                                                <img src="{{ asset('assets/images/posts/trending-sm-2.jpg')}}" alt="post-title" />
                                             </div>
                                         </a>
                                     </div>
@@ -206,7 +206,7 @@
                                         </span>
                                         <a href="blog-single.html">
                                             <div class="inner">
-                                                <img src="images/posts/trending-lg-2.jpg" alt="post-title" />
+                                                <img src="{{ asset('assets/images/posts/trending-lg-2.jpg')}}" alt="post-title" />
                                             </div>
                                         </a>
                                     </div>
@@ -226,7 +226,7 @@
                                     <div class="thumb rounded">
                                         <a href="blog-single.html">
                                             <div class="inner">
-                                                <img src="images/posts/trending-sm-3.jpg" alt="post-title" />
+                                                <img src="{{ asset('assets/images/posts/trending-sm-3.jpg')}}" alt="post-title" />
                                             </div>
                                         </a>
                                     </div>
@@ -243,7 +243,7 @@
                                     <div class="thumb rounded">
                                         <a href="blog-single.html">
                                             <div class="inner">
-                                                <img src="images/posts/trending-sm-4.jpg" alt="post-title" />
+                                                <img src="{{ asset('assets/images/posts/trending-sm-4.jpg')}}" alt="post-title" />
                                             </div>
                                         </a>
                                     </div>
@@ -264,7 +264,7 @@
                     <!-- section header -->
                     <div class="section-header">
                         <h3 class="section-title">Inspiration</h3>
-                        <img src="images/wave.svg" class="wave" alt="wave" />
+                        <img src="{{ asset('assets/images/wave.svg')}}" class="wave" alt="wave" />
                         <div class="slick-arrows-top">
                             <button type="button" data-role="none" class="carousel-topNav-prev slick-custom-buttons"
                                 aria-label="Previous"><i class="icon-arrow-left"></i></button>
@@ -288,7 +288,7 @@
                             <a href="blog-single.html">
                                 <div class="thumb rounded">
                                     <div class="inner">
-                                        <img src="images/posts/inspiration-1.jpg" alt="thumb" />
+                                        <img src="{{ asset('assets/images/posts/inspiration-1.jpg')}}" alt="thumb" />
                                     </div>
                                 </div>
                             </a>
@@ -307,7 +307,7 @@
                             <a href="blog-single.html">
                                 <div class="thumb rounded">
                                     <div class="inner">
-                                        <img src="images/posts/inspiration-2.jpg" alt="thumb" />
+                                        <img src="{{ asset('assets/images/posts/inspiration-2.jpg')}}" alt="thumb" />
                                     </div>
                                 </div>
                             </a>
@@ -326,7 +326,7 @@
                             <a href="blog-single.html">
                                 <div class="thumb rounded">
                                     <div class="inner">
-                                        <img src="images/posts/inspiration-3.jpg" alt="thumb" />
+                                        <img src="{{ asset('assets/images/posts/inspiration-3.jpg')}}" alt="thumb" />
                                     </div>
                                 </div>
                             </a>
@@ -338,7 +338,7 @@
                     <!-- section header -->
                     <div class="section-header">
                         <h3 class="section-title">Latest Posts</h3>
-                        <img src="images/wave.svg" class="wave" alt="wave" />
+                        <img src="{{ asset('assets/images/wave.svg')}}" class="wave" alt="wave" />
                     </div>
 
                     <div class="padding-30 rounded bordered">
@@ -354,7 +354,7 @@
                                         </span>
                                         <a href="blog-single.html">
                                             <div class="inner">
-                                                <img src="images/posts/latest-sm-1.jpg" alt="post-title" />
+                                                <img src="{{ asset('assets/images/posts/latest-sm-1.jpg')}}" alt="post-title" />
                                             </div>
                                         </a>
                                     </div>
@@ -402,7 +402,7 @@
                                     <div class="thumb rounded">
                                         <a href="blog-single.html">
                                             <div class="inner">
-                                                <img src="images/posts/latest-sm-2.jpg" alt="post-title" />
+                                                <img src="{{ asset('assets/images/posts/latest-sm-2.jpg')}}" alt="post-title" />
                                             </div>
                                         </a>
                                     </div>
@@ -453,7 +453,7 @@
                                         </span>
                                         <a href="blog-single.html">
                                             <div class="inner">
-                                                <img src="images/posts/latest-sm-3.jpg" alt="post-title" />
+                                                <img src="{{ asset('assets/images/posts/latest-sm-3.jpg')}}" alt="post-title" />
                                             </div>
                                         </a>
                                     </div>
@@ -501,7 +501,7 @@
                                     <div class="thumb rounded">
                                         <a href="blog-single.html">
                                             <div class="inner">
-                                                <img src="images/posts/latest-sm-4.jpg" alt="post-title" />
+                                                <img src="{{ asset('assets/images/posts/latest-sm-4.jpg')}}" alt="post-title" />
                                             </div>
                                         </a>
                                     </div>
@@ -559,7 +559,7 @@
                         <!-- widget about -->
                         <div class="widget rounded">
                             <div class="widget-about data-bg-image text-center" data-bg-image="images/map-bg.png">
-                                <img src="images/logo.svg" alt="logo" class="mb-4" />
+                                <img src="{{ asset('assets/images/logo.svg')}}" alt="logo" class="mb-4" />
                                 <p class="mb-4">Hello, We’re content writer who is fascinated by content fashion,
                                     celebrity and lifestyle. We helps clients bring the right content to the right people.
                                 </p>
@@ -583,7 +583,7 @@
                         <div class="widget rounded">
                             <div class="widget-header text-center">
                                 <h3 class="widget-title">Popular Posts</h3>
-                                <img src="images/wave.svg" class="wave" alt="wave" />
+                                <img src="{{ asset('assets/images/wave.svg')}}" class="wave" alt="wave" />
                             </div>
                             <div class="widget-content">
                                 <!-- post -->
@@ -592,7 +592,7 @@
                                         <span class="number">1</span>
                                         <a href="blog-single.html">
                                             <div class="inner">
-                                                <img src="images/posts/tabs-1.jpg" alt="post-title" />
+                                                <img src="{{ asset('assets/images/posts/tabs-1.jpg')}}" alt="post-title" />
                                             </div>
                                         </a>
                                     </div>
@@ -610,7 +610,7 @@
                                         <span class="number">2</span>
                                         <a href="blog-single.html">
                                             <div class="inner">
-                                                <img src="images/posts/tabs-2.jpg" alt="post-title" />
+                                                <img src="{{ asset('assets/images/posts/tabs-2.jpg')}}" alt="post-title" />
                                             </div>
                                         </a>
                                     </div>
@@ -628,7 +628,7 @@
                                         <span class="number">3</span>
                                         <a href="blog-single.html">
                                             <div class="inner">
-                                                <img src="images/posts/tabs-3.jpg" alt="post-title" />
+                                                <img src="{{ asset('assets/images/posts/tabs-3.jpg')}}" alt="post-title" />
                                             </div>
                                         </a>
                                     </div>
@@ -647,7 +647,7 @@
                         <div class="widget rounded">
                             <div class="widget-header text-center">
                                 <h3 class="widget-title">Explore Topics</h3>
-                                <img src="images/wave.svg" class="wave" alt="wave" />
+                                <img src="{{ asset('assets/images/wave.svg')}}" class="wave" alt="wave" />
                             </div>
                             <div class="widget-content">
                                 <ul class="list">
@@ -666,7 +666,7 @@
                         <div class="widget rounded">
                             <div class="widget-header text-center">
                                 <h3 class="widget-title">Newsletter</h3>
-                                <img src="images/wave.svg" class="wave" alt="wave" />
+                                <img src="{{ asset('assets/images/wave.svg')}}" class="wave" alt="wave" />
                             </div>
                             <div class="widget-content">
                                 <span class="newsletter-headline text-center mb-3">Join 70,000 subscribers!</span>
@@ -686,7 +686,7 @@
                         <div class="widget rounded">
                             <div class="widget-header text-center">
                                 <h3 class="widget-title">Celebration</h3>
-                                <img src="images/wave.svg" class="wave" alt="wave" />
+                                <img src="{{ asset('assets/images/wave.svg')}}" class="wave" alt="wave" />
                             </div>
                             <div class="widget-content">
                                 <div class="post-carousel-widget">
@@ -696,7 +696,7 @@
                                             <a href="category.html" class="category-badge position-absolute">How to</a>
                                             <a href="blog-single.html">
                                                 <div class="inner">
-                                                    <img src="images/widgets/widget-carousel-1.jpg" alt="post-title" />
+                                                    <img src="{{ asset('assets/images/widgets/widget-carousel-1.jpg')}}" alt="post-title" />
                                                 </div>
                                             </a>
                                         </div>
@@ -713,7 +713,7 @@
                                             <a href="category.html" class="category-badge position-absolute">Trending</a>
                                             <a href="blog-single.html">
                                                 <div class="inner">
-                                                    <img src="images/widgets/widget-carousel-2.jpg" alt="post-title" />
+                                                    <img src="{{ asset('assets/images/widgets/widget-carousel-2.jpg')}}" alt="post-title" />
                                                 </div>
                                             </a>
                                         </div>
@@ -730,7 +730,7 @@
                                             <a href="category.html" class="category-badge position-absolute">How to</a>
                                             <a href="blog-single.html">
                                                 <div class="inner">
-                                                    <img src="images/widgets/widget-carousel-1.jpg" alt="post-title" />
+                                                    <img src="{{ asset('assets/images/widgets/widget-carousel-1.jpg')}}" alt="post-title" />
                                                 </div>
                                             </a>
                                         </div>
@@ -758,7 +758,7 @@
                         <div class="widget no-container rounded text-md-center">
                             <span class="ads-title">- Sponsored Ad -</span>
                             <a href="#" class="widget-ads">
-                                <img src="images/ads/ad-360.png" alt="Advertisement" />
+                                <img src="{{ asset('assets/images/ads/ad-360.png')}}" alt="Advertisement" />
                             </a>
                         </div>
 
@@ -766,7 +766,7 @@
                         <div class="widget rounded">
                             <div class="widget-header text-center">
                                 <h3 class="widget-title">Tag Clouds</h3>
-                                <img src="images/wave.svg" class="wave" alt="wave" />
+                                <img src="{{ asset('assets/images/wave.svg')}}" class="wave" alt="wave" />
                             </div>
                             <div class="widget-content">
                                 <a href="#" class="tag">#Trending</a>

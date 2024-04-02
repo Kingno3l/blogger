@@ -6,32 +6,32 @@
         <div class="instagram-feed d-flex flex-wrap">
             <div class="insta-item col-sm-2 col-6 col-md-2">
                 <a href="#">
-                    <img src="images/insta/insta-1.jpg" alt="insta-title" />
+                    <img src="{{ asset('assets/images/insta/insta-1.jpg')}}" alt="insta-title" />
                 </a>
             </div>
             <div class="insta-item col-sm-2 col-6 col-md-2">
                 <a href="#">
-                    <img src="images/insta/insta-2.jpg" alt="insta-title" />
+                    <img src="{{ asset('assets/images/insta/insta-2.jpg')}}" alt="insta-title" />
                 </a>
             </div>
             <div class="insta-item col-sm-2 col-6 col-md-2">
                 <a href="#">
-                    <img src="images/insta/insta-3.jpg" alt="insta-title" />
+                    <img src="{{ asset('assets/images/insta/insta-3.jpg')}}" alt="insta-title" />
                 </a>
             </div>
             <div class="insta-item col-sm-2 col-6 col-md-2">
                 <a href="#">
-                    <img src="images/insta/insta-4.jpg" alt="insta-title" />
+                    <img src="{{ asset('assets/images/insta/insta-4.jpg')}}" alt="insta-title" />
                 </a>
             </div>
             <div class="insta-item col-sm-2 col-6 col-md-2">
                 <a href="#">
-                    <img src="images/insta/insta-5.jpg" alt="insta-title" />
+                    <img src="{{ asset('assets/images/insta/insta-5.jpg')}}" alt="insta-title" />
                 </a>
             </div>
             <div class="insta-item col-sm-2 col-6 col-md-2">
                 <a href="#">
-                    <img src="images/insta/insta-6.jpg" alt="insta-title" />
+                    <img src="{{ asset('assets/images/insta/insta-6.jpg')}}" alt="insta-title" />
                 </a>
             </div>
         </div>
